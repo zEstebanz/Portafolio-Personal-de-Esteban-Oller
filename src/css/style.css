@@ -110,6 +110,9 @@
   height: auto;
   padding-bottom: 5em;
 }
+.section-skills .text-center {
+  color: white;
+}
 .section-skills .container {
   display: flex;
   justify-content: center; /* Centrar horizontalmente */
